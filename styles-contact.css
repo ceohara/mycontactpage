@@ -75,6 +75,8 @@ html, body {
     margin: 100px auto;
  	background: rgba(249, 237, 242, 0.5); /*this uses opacity of 50% for the background color*/
 	text-align: center;
+	border: solid;
+	border-color: palevioletred;
 }
 
    
@@ -137,7 +139,7 @@ p {
 	font-weight: normal;
   }
   a:hover{
-	color:palevioletred; /* ---------- change of color ------------ */
+	color:rgb(248, 244, 245); /* ---------- change of color ------------ */
 	background:lightpink; /* ---------- change of color ------------ */
   }
     /* ---------- This is the end of my 201 Contact Web Page Project ------------ */
